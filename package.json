@@ -1,7 +1,7 @@
 {
   "name": "cinemagpt",
   "version": "0.1.0",
-  "homepage": "https://github.com/AmalenduGuru01",
+  "homepage": "https://cinema-gpt.vercel.app/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
